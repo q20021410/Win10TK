@@ -1,0 +1,25 @@
+C:\Users\q5515\source\repos\Win10_Tweak_Tools\Win10_Tweak_Tools\bin\Debug\Win10_Tweak_Tools.exe.config
+C:\Users\q5515\source\repos\Win10_Tweak_Tools\Win10_Tweak_Tools\bin\Debug\Win10_Tweak_Tools.exe
+C:\Users\q5515\source\repos\Win10_Tweak_Tools\Win10_Tweak_Tools\bin\Debug\Win10_Tweak_Tools.pdb
+C:\Users\q5515\source\repos\Win10_Tweak_Tools\Win10_Tweak_Tools\bin\Debug\Win10_Tweak_Tools.xml
+C:\Users\q5515\source\repos\Win10_Tweak_Tools\Win10_Tweak_Tools\obj\Debug\Win10_Tweak_Tools.Resources.resources
+C:\Users\q5515\source\repos\Win10_Tweak_Tools\Win10_Tweak_Tools\obj\Debug\Win10_Tweak_Tools.vbproj.GenerateResource.cache
+C:\Users\q5515\source\repos\Win10_Tweak_Tools\Win10_Tweak_Tools\obj\Debug\Win10_Tweak_Tools.vbproj.CoreCompileInputs.cache
+C:\Users\q5515\source\repos\Win10_Tweak_Tools\Win10_Tweak_Tools\obj\Debug\Win10_Tweak_Tools.exe
+C:\Users\q5515\source\repos\Win10_Tweak_Tools\Win10_Tweak_Tools\obj\Debug\Win10_Tweak_Tools.xml
+C:\Users\q5515\source\repos\Win10_Tweak_Tools\Win10_Tweak_Tools\obj\Debug\Win10_Tweak_Tools.pdb
+C:\Users\q5515\source\repos\Win10_Tweak_Tools\Win10_Tweak_Tools\obj\Debug\Win10_Tweak_Tools.Form1.resources
+C:\Users\q5515\source\repos\Win10_Tweak_Tools\Win10_Tweak_Tools\obj\Debug\Win10_Tweak_Tools.vbprojAssemblyReference.cache
+D:\System Directory\Developers\source\repos\Win10_Tweak_Tools\Win10_Tweak_Tools\bin\Debug\Win10_Tweak_Tools.exe.config
+D:\System Directory\Developers\source\repos\Win10_Tweak_Tools\Win10_Tweak_Tools\bin\Debug\Win10_Tweak_Tools.exe
+D:\System Directory\Developers\source\repos\Win10_Tweak_Tools\Win10_Tweak_Tools\bin\Debug\Win10_Tweak_Tools.pdb
+D:\System Directory\Developers\source\repos\Win10_Tweak_Tools\Win10_Tweak_Tools\bin\Debug\Win10_Tweak_Tools.xml
+D:\System Directory\Developers\source\repos\Win10_Tweak_Tools\Win10_Tweak_Tools\obj\Debug\Win10_Tweak_Tools.Form1.resources
+D:\System Directory\Developers\source\repos\Win10_Tweak_Tools\Win10_Tweak_Tools\obj\Debug\Win10_Tweak_Tools.Resources.resources
+D:\System Directory\Developers\source\repos\Win10_Tweak_Tools\Win10_Tweak_Tools\obj\Debug\Win10_Tweak_Tools.vbproj.GenerateResource.cache
+D:\System Directory\Developers\source\repos\Win10_Tweak_Tools\Win10_Tweak_Tools\obj\Debug\Win10_Tweak_Tools.vbproj.CoreCompileInputs.cache
+D:\System Directory\Developers\source\repos\Win10_Tweak_Tools\Win10_Tweak_Tools\obj\Debug\Win10_Tweak_Tools.exe
+D:\System Directory\Developers\source\repos\Win10_Tweak_Tools\Win10_Tweak_Tools\obj\Debug\Win10_Tweak_Tools.xml
+D:\System Directory\Developers\source\repos\Win10_Tweak_Tools\Win10_Tweak_Tools\obj\Debug\Win10_Tweak_Tools.pdb
+D:\System Directory\Developers\source\repos\Win10_Tweak_Tools\Win10_Tweak_Tools\obj\Debug\Win10_Tweak_Tools.vbprojAssemblyReference.cache
+D:\System Directory\Developers\source\repos\Win10_Tweak_Tools\Win10_Tweak_Tools\obj\Debug\Win10_Tweak_Tools.PRList.resources
